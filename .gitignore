@@ -1,0 +1,48 @@
+# Node / JS
+node_modules/
+dist/
+.build/
+.next/
+.svelte-kit/
+.vite/
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# PHP / Laravel
+/vendor/
+.env
+/public/hot
+/storage/*.key
+
+# Ruby / Rails
+/log/
+/tmp/
+/vendor/bundle
+.env
+.byebug_history
+
+# Flutter
+.build/
+.dart_tool/
+.melos_tool/
+pubspec.lock
+build/
+
+# Capacitor / Android / iOS
+android/.gradle/
+android/app/build/
+ios/Pods/
+
+# Electron/Tauri
+out/
+dist-electron/
+src-tauri/target/
+
+# OS/Editor
+.DS_Store
+.idea/
+.vscode/
